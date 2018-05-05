@@ -1,0 +1,138 @@
+div#main {
+    background-color: darkorange;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    position: relative;
+    
+}
+
+.small-button-black, .small-button-gray {
+    
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    font-family: "lato";
+    color:  white;
+    font-size: 35px;
+    border-radius: 7px;
+    border-bottom-color: grey;
+    box-shadow: 0px 4px #32373d;
+    border-width: 0px;
+}
+
+button.small-button-black {
+    background-color: black;
+     
+}
+
+button.small-button-gray {
+    background-color: #3a3a3a;   
+}
+
+div#show {
+    width: 290px;
+    height: 65px;
+    border-radius: 0px;
+    background-color: black;
+    top: 15px;
+    left: 30px;
+}
+
+
+
+#del {
+    width: 140px;
+    background-color: #66ccff;
+    top: 100px;
+    left: 30px;
+    box-shadow: 0px 4px #0099cc;
+}
+
+#percent {
+    top: 100px;
+    left: 180px;
+}
+
+#add {
+    top: 100px;
+    left: 255px;
+    
+}
+
+#seven {
+    left: 30px;
+    top: 180px;
+}
+
+#eight {
+    left: 105px;
+   top: 180px; 
+}
+
+#nine {
+    left: 180px;
+   top: 180px; 
+}
+
+#minus {
+    left: 255px;
+   top: 180px; 
+}
+
+#four {
+    left: 30px;
+    top: 255px;
+}
+
+#five {
+    left: 105px;
+   top: 255px; 
+}
+
+#six {
+    left: 180px;
+   top: 255px; 
+}
+
+#x {
+    left: 255px;
+   top: 255px; 
+}
+
+#one {
+    left: 30px;
+    top: 330px;
+}
+
+#two {
+    left: 105px;
+   top: 330px; 
+}
+
+#three {
+    left: 180px;
+   top: 330px; 
+}
+
+#slash {
+    left: 255px;
+   top: 330px; 
+}
+
+#zero {
+    width: 140px;
+    left: 30px;
+    top: 405px;
+}
+
+#dot {
+    left: 180px;
+    top: 405px;
+}
+
+#green-button {
+    background-color: #66cc00;
+    left: 255px;
+    top: 405px;
+}
